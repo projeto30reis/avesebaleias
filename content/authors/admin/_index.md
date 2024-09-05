@@ -1,44 +1,41 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Marcio C Motta, MSc
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Marcio
+last_name: Motta
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🦉
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Diretor no VIVA Instituto Verde Azul
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: VIVA Instituto Verde Azul
+    url: https://www.viva.bio.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Meu interesse de estudos e pesquisas incluem aves marinhas, cetáceos, fotografia e educação.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:marciomotta@pm.me'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: custom/ResearchGate
+    url: https://www.researchgate.net/profile/Marcio-Motta 
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/marc.motta/ 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/marciomottabio 
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -54,6 +51,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sou biólogo e pedagogo, atualmente parte da Diretoria do VIVA Instituto Verde Azul, sediado em Ilhabela, litoral norte paulista. Meus principais interesses de estudos e pesquisas estão relacionados com as aves marinhas, cetáceos, educação ambiental e fotografia. 
